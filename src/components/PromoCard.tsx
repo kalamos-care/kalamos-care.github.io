@@ -19,7 +19,7 @@ const PromoCard: FC<Props> = ({ title, subtitle, url }) => (
             </Typography>
         </CardContent>
         <CardActions>
-            <Button variant="outlined" color="primary" href={url}>
+            <Button size="small" variant="outlined" color="primary" href={url}>
                 Learn More
             </Button>
         </CardActions>

@@ -25,15 +25,13 @@ const Hero: FC = () => {
                     Building Stronger Communities
                 </Typography>
                 <Typography variant="h5" align="center" color="textSecondary" paragraph>
-                    Something short and leading about the collection below—its contents, the creator, etc.
-                    Make it short and sweet, but not too short so folks don&apos;t simply skip over it
-                    entirely.
+                    Kalamos providers tools to make community building easier, specifically focused on reducing barriers to sexual wellness
                 </Typography>
             </Grid>
             <Grid container spacing={2} className={classes.heroButtons}>
                 <Grid item>
                     <Button variant="contained" color="primary">
-                        Main call to action
+                        I don't do anything yet!
                     </Button>
                 </Grid>
                 {/*
