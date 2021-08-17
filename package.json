@@ -1,8 +1,8 @@
 {
-  "name": "clinic-search",
+  "name": "Github Pages Showcase",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://search.kalamos.care",
+  "homepage": "https://kalamos.care",
   "dependencies": {
     "@fontsource/arimo": "^4.4.5",
     "@material-ui/core": "^4.11.4",
